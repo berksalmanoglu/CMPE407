@@ -1,0 +1,3 @@
+https://programtalk.com/vs2/python/11621/scikit-learn/sklearn/neural_network/tests/test_mlp.py/
+
+useful resource for sklearn neural networks
